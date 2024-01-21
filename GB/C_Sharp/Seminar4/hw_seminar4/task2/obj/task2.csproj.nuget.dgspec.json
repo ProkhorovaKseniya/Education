@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Education\\GB\\GH\\GB\\C_Sharp\\Seminar4\\hw_seminar4\\task1\\task1.csproj": {}
+    "D:\\Education\\GB\\GH\\GB\\C_Sharp\\Seminar4\\hw_seminar4\\task2\\task2.csproj": {}
   },
   "projects": {
-    "D:\\Education\\GB\\GH\\GB\\C_Sharp\\Seminar4\\hw_seminar4\\task1\\task1.csproj": {
+    "D:\\Education\\GB\\GH\\GB\\C_Sharp\\Seminar4\\hw_seminar4\\task2\\task2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Education\\GB\\GH\\GB\\C_Sharp\\Seminar4\\hw_seminar4\\task1\\task1.csproj",
-        "projectName": "task1",
-        "projectPath": "D:\\Education\\GB\\GH\\GB\\C_Sharp\\Seminar4\\hw_seminar4\\task1\\task1.csproj",
+        "projectUniqueName": "D:\\Education\\GB\\GH\\GB\\C_Sharp\\Seminar4\\hw_seminar4\\task2\\task2.csproj",
+        "projectName": "task2",
+        "projectPath": "D:\\Education\\GB\\GH\\GB\\C_Sharp\\Seminar4\\hw_seminar4\\task2\\task2.csproj",
         "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "D:\\Education\\GB\\GH\\GB\\C_Sharp\\Seminar4\\hw_seminar4\\task1\\obj\\",
+        "outputPath": "D:\\Education\\GB\\GH\\GB\\C_Sharp\\Seminar4\\hw_seminar4\\task2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config"

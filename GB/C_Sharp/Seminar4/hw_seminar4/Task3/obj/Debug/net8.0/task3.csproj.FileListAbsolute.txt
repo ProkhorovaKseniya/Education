@@ -1,0 +1,15 @@
+D:\Education\GB\GH\GB\C_Sharp\Seminar4\hw_seminar4\Task3\bin\Debug\net8.0\task3.exe
+D:\Education\GB\GH\GB\C_Sharp\Seminar4\hw_seminar4\Task3\bin\Debug\net8.0\task3.deps.json
+D:\Education\GB\GH\GB\C_Sharp\Seminar4\hw_seminar4\Task3\bin\Debug\net8.0\task3.runtimeconfig.json
+D:\Education\GB\GH\GB\C_Sharp\Seminar4\hw_seminar4\Task3\bin\Debug\net8.0\task3.dll
+D:\Education\GB\GH\GB\C_Sharp\Seminar4\hw_seminar4\Task3\bin\Debug\net8.0\task3.pdb
+D:\Education\GB\GH\GB\C_Sharp\Seminar4\hw_seminar4\Task3\obj\Debug\net8.0\task3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Education\GB\GH\GB\C_Sharp\Seminar4\hw_seminar4\Task3\obj\Debug\net8.0\task3.AssemblyInfoInputs.cache
+D:\Education\GB\GH\GB\C_Sharp\Seminar4\hw_seminar4\Task3\obj\Debug\net8.0\task3.AssemblyInfo.cs
+D:\Education\GB\GH\GB\C_Sharp\Seminar4\hw_seminar4\Task3\obj\Debug\net8.0\task3.csproj.CoreCompileInputs.cache
+D:\Education\GB\GH\GB\C_Sharp\Seminar4\hw_seminar4\Task3\obj\Debug\net8.0\task3.sourcelink.json
+D:\Education\GB\GH\GB\C_Sharp\Seminar4\hw_seminar4\Task3\obj\Debug\net8.0\task3.dll
+D:\Education\GB\GH\GB\C_Sharp\Seminar4\hw_seminar4\Task3\obj\Debug\net8.0\refint\task3.dll
+D:\Education\GB\GH\GB\C_Sharp\Seminar4\hw_seminar4\Task3\obj\Debug\net8.0\task3.pdb
+D:\Education\GB\GH\GB\C_Sharp\Seminar4\hw_seminar4\Task3\obj\Debug\net8.0\task3.genruntimeconfig.cache
+D:\Education\GB\GH\GB\C_Sharp\Seminar4\hw_seminar4\Task3\obj\Debug\net8.0\ref\task3.dll
