@@ -2,12 +2,12 @@
 // все натуральные числа в промежутке от M до N. 
 // Использовать рекурсию, не использовать циклы
 
-int ShowNaturalNumber(int m, int n)
+void ShowNaturalNumber(int m, int n)
 {
     if (m == n)
     {
         Console.Write($"{n}");
-        return m;
+        return;
     }
     Console.Write($"{m}, ");
     if (m < n)
@@ -18,7 +18,7 @@ int ShowNaturalNumber(int m, int n)
     {
         m--;
     }
-    return ShowNaturalNumber(m, n);
+    ShowNaturalNumber(m, n);
 }
 
 Console.Write("Введите M:");
