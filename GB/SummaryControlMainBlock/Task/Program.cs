@@ -26,7 +26,6 @@ string[] GetShortArray(string[] arr, int maxLength)
         if (e.Length <= maxLength)
         {
             result[j] = e;
-            //Console.Write(result[j] + ", ");
             j++;
         }
     }
